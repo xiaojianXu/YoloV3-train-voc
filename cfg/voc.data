@@ -1,6 +1,6 @@
 classes= 20
-train  = /content/YoloV3-train-voc/VOC/data/voc/train.txt
-valid  = /content/YoloV3-train-voc/VOC/data/voc/2007_test.txt
+train  = /content/YoloV3-train-voc/VOC/train.txt
+valid  = /content/YoloV3-train-voc/VOC/2007_test.txt
 names = data/voc.names
 backup = backup
 
